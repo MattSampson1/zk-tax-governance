@@ -17,9 +17,9 @@ const mumbai_addresses = {
 }
 
 const local_addresses = {
-    tax: "0x0",
-    timelock: "0x0",
-    governor: "0x0",
+    tax: "0x085132a534BBeB10D830a39c4BBdEC05549c9Ee6",
+    timelock: "0x4039De7C4bAa31b0F93ad232c656DC3e8387AE7a",
+    governor: "0x1D64Fd9269b4Ca972D544920e1C5423b867D3d23",
 }
 
 const addresses = {
